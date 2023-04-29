@@ -1,4 +1,4 @@
-# G2F_RNM
+# Genomes 2 Fields Yield Prediction using a Reaction Norm Model
 Within this repository, we are sharing the R script used in the analysis for Investigating the Genomic Background and Predictive Ability of Genotype-by-environment Interactions in Maize Grain Yield Based on Reaction Norm Models.  
 
 Phenotype, genotype, weather, and metadata are provided at Genomes 2 Fields https://www.genomes2fields.org/resources/
